@@ -1,0 +1,169 @@
+
+ [
+    {
+        "nombre":"Dolar",
+        "simbolo": "USD", 
+        "cambiodolar": 1
+    },
+    {
+        "nombre": "Pesos argentinos" ,
+        "simbolo": "ARS" , 
+        "cambiodolar":95
+    },
+    {
+        "nombre":"Euros" ,
+        "simbolo": "EU" , 
+        "cambiodolar": 0.84
+    },
+    {
+        "nombre":"Bolivar Venezolano" ,
+        "simbolo": "VES" , 
+        "cambiodolar": 33512.08
+    },
+    {
+        "nombre":"Corona Checa" ,
+        "simbolo": "CZK" , 
+        "cambiodolar": 21.35
+    },
+    {
+        "nombre":"Corona Danesa" ,
+        "simbolo": "DKK" , 
+        "cambiodolar": 6.32
+    },
+    {
+        "nombre":"Corona noruega" ,
+        "simbolo": "NOK" , 
+        "cambiodolar": 8.50
+    },
+    {
+        "nombre":"Corona Sueca" ,
+        "simbolo": "SEK" , 
+        "cambiodolar": 8.48
+    },
+    {
+        "nombre":"Dinar Kuwait" ,
+        "simbolo": "NOK" , 
+        "cambiodolar": 0.30
+    },
+    {
+        "nombre":"Dirhar Emiratos" ,
+        "simbolo": "AED" , 
+        "cambiodolar": 3.67
+    },
+    {
+        "nombre":"Dolar Australiano" ,
+        "simbolo": "AUD" , 
+        "cambiodolar": 1.317},
+    {
+        "nombre":"Dolar Canadiense",
+        "simbolo": "CAD" , 
+        "cambiodolar": 1.22
+    },
+    {
+        "nombre":"Dolar Hong Kong" ,
+        "simbolo": "HDK" , 
+        "cambiodolar": 7.76
+    },
+    {
+        "nombre":"Dolar Neozelandez" ,
+        "simbolo": "NZD" , 
+        "cambiodolar": 1.41
+    },
+    {
+        "nombre":"Dolar Singapur" ,
+        "simbolo": "SGD" , 
+        "cambiodolar": 1.34
+    },
+    {
+        "nombre":"Florin Hungaro" ,
+        "simbolo": "HUF" , 
+        "cambiodolar": 294.17
+    },
+    {
+        "nombre":"Franco Suizo" ,
+        "simbolo": "CHF" , 
+        "cambiodolar": 0.91
+    },
+    {
+        "nombre":"Libra" ,
+        "simbolo": "GBP" , 
+        "cambiodolar": 0.72
+    },
+     {  "nombre":"Lira Turca" ,
+        "simbolo": "TRY" , 
+        "cambiodolar": 8.76
+    },
+    {   "nombre":"Litas Lituano" ,
+        "simbolo": "LTL" , 
+        "cambiodolar": 2.93
+    },
+    {   
+        "nombre":"Peso Chileno" ,
+        "simbolo": "CLP" , 
+        "cambiodolar": 732.98
+    },
+    {   
+        "nombre":"Peso Colombiano" ,
+        "simbolo": "COP" , 
+        "cambiodolar": 3740.18},
+    {   
+        "nombre":"Peso Mexicano" ,
+        "simbolo": "MXN" , 
+        "cambiodolar": 19.82
+    },
+    {   
+        "nombre":"Peso Uruguayo" ,
+        "simbolo": "UYU" , 
+        "cambiodolar": 43.43
+    },
+    {
+        "nombre":"rand Sudafricano" ,
+        "simbolo": "ZAR" , 
+        "cambiodolar": 14.14
+    },
+    {
+        "nombre":"Real Brasilero" ,
+        "simbolo": "BRL" , 
+        "cambiodolar": 4.93
+    },
+    {
+        "nombre":"Rial Saudi" ,
+        "simbolo": "SAR" , 
+        "cambiodolar": 3.74
+    },
+    {
+        "nombre":"Ringgit Malasio" ,
+        "simbolo": "MYR" , 
+        "cambiodolar": 4.15
+    },
+    {
+        "nombre":"Rublo Ruso" ,
+        "simbolo": "RUB" , 
+        "cambiodolar": 72.19
+    },
+    {
+        "nombre":"Rupia India" ,
+        "simbolo": "INR" , 
+        "cambiodolar": 74.22
+    },
+    {
+        "nombre":"Shekel Israeli" ,
+        "simbolo": "ILS" , 
+        "cambiodolar":3.68
+    },
+    {
+        "nombre":"Yen" ,
+        "simbolo": "JPY" , 
+        "cambiodolar": 110.8
+    },
+    {
+        "nombre":"Yuan" ,
+        "simbolo": "CNY" , 
+        "cambiodolar": 6.45
+    },
+    {
+        "nombre":"Zlotty Polaco" ,
+        "simbolo": "PLN" , 
+        "cambiodolar": 3.78
+    }
+]

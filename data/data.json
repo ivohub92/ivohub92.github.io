@@ -1,0 +1,69 @@
+ 
+ [ 
+    {
+        "nombre":"Bitcoin" ,
+        "simbolo": "BTC" , 
+        "cambiodolar": 35705
+    },
+    {
+        "nombre": "Etherium" ,
+        "simbolo": "ETH" , 
+        "cambiodolar":2630.37
+    },
+    {
+        "nombre": "Bitcoin Cash" ,
+        "simbolo": "BCH" , 
+        "cambiodolar":648.39
+    },
+    {
+        "nombre":"Litecoin" ,
+        "simbolo": "LTC", 
+        "cambiodolar":73.18
+    },
+    {
+        "nombre": "Stellar" ,
+        "simbolo": "XLM" , 
+        "cambiodolar": 0.26
+    },
+    {
+        "nombre": "Etherium Classic",
+        "simbolo":"ETC" , 
+        "cambiodolar":63.35
+    },
+    {
+        "nombre":"EOS" ,
+        "simbolo":"EOS" , 
+        "cambiodolar":5.76
+    },
+    {
+        "nombre":"Dash" ,
+        "simbolo":"DASH" , 
+        "cambiodolar":186.03
+    },
+    {
+        "nombre":"Tezos" ,
+        "simbolo":"XTZ" , 
+        "cambiodolar":3.42
+    },
+    {
+        "nombre":"Dodgecoin" ,
+        "simbolo":"DODGE" , 
+        "cambiodolar":1.04
+    },
+    {
+        "nombre":"Binance" ,
+        "simbolo":"BNB" , 
+        "cambiodolar":297.69
+    },
+    {
+        "nombre":"Cardano" ,
+        "simbolo":"ADA" , 
+        "cambiodolar":1.4
+    },
+    {
+        "nombre":"Ripple" ,
+        "simbolo":"XRP" , 
+        "cambiodolar":0.65
+    }
+]
+
